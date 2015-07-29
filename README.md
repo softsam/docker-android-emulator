@@ -15,3 +15,4 @@ Running the emulator for Android 16:
     docker run -d --name android softsam/android-16
 
 All the emulator expose the port 5555 of ADB, and can be used by any other container (or the host).
+The emulator also exposes the port 5900, and you can connect to it with a VNC client.
