@@ -12,6 +12,6 @@ This repository provides emulator images for different SDK.
 
 Running the emulator for Android 16:
 
-    docker run -d --name android softsam/android:16
+    docker run -d --name android softsam/android-16
 
 All the emulator expose the port 5555 of ADB, and can be used by any other container (or the host).
