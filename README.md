@@ -4,7 +4,7 @@ Run Android emulator
 ## Built with
 - latest debian
 - openjdk 7
-- Android SDK 24.3.3
+- Android SDK 24.3.4
 - Android APIs
 
 ## Running the emulator

@@ -4,4 +4,4 @@ Android base image for emulator, used to build images of emulators for the diffe
 ## Built with
 - latest debian
 - openjdk 7
-- Android SDK 24.3.3
+- Android SDK 24.3.4
